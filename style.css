@@ -10,7 +10,11 @@
     margin: 10vw;
 }
 
-.div-content{
+.div-container {
+    width: 100%;
+}
+
+.div-conteudo{
     display: flex;
     justify-content: space-around;
 }
@@ -56,11 +60,4 @@
     height: 3px;
     background: #cecece;
     margin: 0 auto;
-}
-
-
-.cards-2 {
-    display: flex;
-    justify-content: space-around;
-    
 }
